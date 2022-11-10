@@ -1,0 +1,15 @@
+﻿  Source.c
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(187,111): warning C4047: 'function': 'bool *' differs in levels of indirection from 'bool **'
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(187,106): warning C4024: 'moveCar': different types for formal and actual parameter 6
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(116,6): warning C4101: 'row': unreferenced local variable
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(118,16): warning C4101: 'ch': unreferenced local variable
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(117,6): warning C4101: 'col': unreferenced local variable
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(394,19): warning C4047: '>': 'int *' differs in levels of indirection from 'int'
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(394,34): warning C4047: '>': 'int *' differs in levels of indirection from 'int'
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(575,14): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(580,14): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(600,4): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(600,4): warning C4024: 'putc': different types for formal and actual parameter 1
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(567,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\Projecttask5V2\Source.c(587,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  Projecttask5V2.vcxproj -> C:\Users\Vlad\Desktop\Dalhousie Year 3\ECED3401 System Analysis\Project\projecttask5\Projecttask5V2\x64\Debug\Projecttask5V2.exe
